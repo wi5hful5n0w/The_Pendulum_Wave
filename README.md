@@ -1,11 +1,8 @@
 The project from Linear Systems (2017-2)
 
-201503120 Jun Young Park
-201301666 Kwan Dong Song
-201401670 Il Kyu Jeong
-201601767 Ye Bin Kim
-201601781 Hyeon Joo Yoo
-201601791 Yeong Bin Jeong
+201503120 Jun Young Park | 201301666 Kwan Dong Song
+201401670 Il Kyu Jeong   | 201601767 Ye Bin Kim
+201601781 Hyeon Joo Yoo  | 201601791 Yeong Bin Jeong
 
 - Pendulum_Pytha.m : It's the main code for the pendulum waves.
 - Pendulum_Length.m : It's necessary to execute the source above. used for getting the line length
